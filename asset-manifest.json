@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ColorsRedux/static/css/main.956bc47f.chunk.css",
-    "main.js": "/ColorsRedux/static/js/main.679c6790.chunk.js",
-    "main.js.map": "/ColorsRedux/static/js/main.679c6790.chunk.js.map",
-    "runtime~main.js": "/ColorsRedux/static/js/runtime~main.b741e1ea.js",
-    "runtime~main.js.map": "/ColorsRedux/static/js/runtime~main.b741e1ea.js.map",
-    "static/js/2.b3e46991.chunk.js": "/ColorsRedux/static/js/2.b3e46991.chunk.js",
-    "static/js/2.b3e46991.chunk.js.map": "/ColorsRedux/static/js/2.b3e46991.chunk.js.map",
-    "index.html": "/ColorsRedux/index.html",
-    "precache-manifest.e2461fe0199ec3b749ebbc7f200f4642.js": "/ColorsRedux/precache-manifest.e2461fe0199ec3b749ebbc7f200f4642.js",
-    "service-worker.js": "/ColorsRedux/service-worker.js",
-    "static/css/main.956bc47f.chunk.css.map": "/ColorsRedux/static/css/main.956bc47f.chunk.css.map"
+    "main.css": "/ColorsReduxDeploy/static/css/main.956bc47f.chunk.css",
+    "main.js": "/ColorsReduxDeploy/static/js/main.bef00ca2.chunk.js",
+    "main.js.map": "/ColorsReduxDeploy/static/js/main.bef00ca2.chunk.js.map",
+    "runtime~main.js": "/ColorsReduxDeploy/static/js/runtime~main.51361773.js",
+    "runtime~main.js.map": "/ColorsReduxDeploy/static/js/runtime~main.51361773.js.map",
+    "static/js/2.b3e46991.chunk.js": "/ColorsReduxDeploy/static/js/2.b3e46991.chunk.js",
+    "static/js/2.b3e46991.chunk.js.map": "/ColorsReduxDeploy/static/js/2.b3e46991.chunk.js.map",
+    "index.html": "/ColorsReduxDeploy/index.html",
+    "precache-manifest.9a322065558115fc2c1194cea92fb3e7.js": "/ColorsReduxDeploy/precache-manifest.9a322065558115fc2c1194cea92fb3e7.js",
+    "service-worker.js": "/ColorsReduxDeploy/service-worker.js",
+    "static/css/main.956bc47f.chunk.css.map": "/ColorsReduxDeploy/static/css/main.956bc47f.chunk.css.map"
   }
 }
